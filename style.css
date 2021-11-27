@@ -43,7 +43,7 @@ h4 {
 }
 
 h1 {
-	font-size: clamp(2.5em, 9vw, 2.5em);
+	font-size: clamp(2.5em, 9vw, 2.9em);
 }
 
 h2 {
@@ -121,7 +121,7 @@ a {
 }
 
 .navbar .logo img {
-	width: 8em;
+	width: 9em;
 }
 
 .navbar .menu {
@@ -160,10 +160,10 @@ a {
 
 .hero {
 	grid-area: hero;
-	background: url(images/desktop/image-header.jpg) no-repeat center center;
+	background: url(images/desktop/image-header.jpg) no-repeat top center;
 	background-size: cover;
 	width: 100%;
-	height: 100vh;
+	height: 90vh;
 }
 
 .hero h1 {
@@ -175,7 +175,7 @@ a {
 
 .text-container {
 	background: #fffbf8;
-	padding: 6em;
+	padding: 8em 4em 8em 8em;
 	text-align: left;
 }
 
@@ -223,7 +223,7 @@ a {
 	grid-area: cherry;
 	background: url(images/desktop/image-graphic-design.jpg) no-repeat center center;
 	background-size: cover;
-	padding: 22em 5.5em 3em 5.5em;
+	padding: 22em 6em 3em 6em;
 }
 
 .cherry-content h3 {
@@ -239,7 +239,7 @@ a {
 	grid-area: nectarine;
 	background: url(images/desktop/image-photography.jpg) no-repeat center center;
 	background-size: cover;
-	padding: 22em 5.5em 3em 5.5em;
+	padding: 22em 6em 3em 6em;
 }
 
 .nectarine-content h3 {
@@ -288,7 +288,7 @@ a {
 }
 
 .gallery {
-	height: 30vw;
+	height: 32vw;
 }
 
 .gallery-milk {
@@ -318,12 +318,12 @@ a {
 footer {
 	grid-area: footer;
 	background: var(--light-moderate-cyan);
-	padding: 3.5em 2em;
+	padding: 4em 2em;
 }
 
 footer svg {
 	fill: hsl(168, 45%, 32%);
-	transform: scale(1.2);
+	transform: scale(1.3);
 }
 
 .footer-nav {
