@@ -352,6 +352,10 @@ footer .footer-social {
 	justify-content: center;
 }
 
+footer .footer-social li {
+	list-style: none;
+}
+
 footer .footer-social svg {
 	fill: hsl(168, 45%, 32%);
 	transition: 150ms ease-in-out;
