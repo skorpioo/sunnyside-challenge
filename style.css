@@ -83,6 +83,7 @@ a {
 	position: relative;
 	margin-top: 2.5em;
 	display: inline-grid;
+	z-index: 1;
 }
 
 .primary-btn::after {
@@ -95,6 +96,7 @@ a {
 	right: -5px;
 	border-radius: 50vw;
 	transition: 150ms ease-in-out;
+	z-index: -1;
 }
 
 /* Local Styles */
