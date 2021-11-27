@@ -160,7 +160,7 @@ a {
 
 .hero {
 	grid-area: hero;
-	background: url(/images/desktop/image-header.jpg) no-repeat center center;
+	background: url(./images/desktop/image-header.jpg) no-repeat center center;
 	background-size: cover;
 	width: 100%;
 	height: 100vh;
@@ -197,13 +197,13 @@ a {
 
 .image-egg {
 	grid-area: egg;
-	background: url(/images/desktop/image-transform.jpg) no-repeat center center;
+	background: url(./images/desktop/image-transform.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .image-cup {
 	grid-area: cup;
-	background: url(/images/desktop/image-stand-out.jpg) no-repeat center center;
+	background: url(./images/desktop/image-stand-out.jpg) no-repeat center center;
 	background-size: cover;
 }
 
@@ -221,7 +221,7 @@ a {
 
 .cherry-content {
 	grid-area: cherry;
-	background: url(/images/desktop/image-graphic-design.jpg) no-repeat center center;
+	background: url(./images/desktop/image-graphic-design.jpg) no-repeat center center;
 	background-size: cover;
 	padding: 22em 5.5em 3em 5.5em;
 }
@@ -237,7 +237,7 @@ a {
 
 .nectarine-content {
 	grid-area: nectarine;
-	background: url(/images/desktop/image-photography.jpg) no-repeat center center;
+	background: url(./images/desktop/image-photography.jpg) no-repeat center center;
 	background-size: cover;
 	padding: 22em 5.5em 3em 5.5em;
 }
@@ -293,25 +293,25 @@ a {
 
 .gallery-milk {
 	grid-area: milk;
-	background: url(/images/desktop/image-gallery-milkbottles.jpg) no-repeat center center;
+	background: url(./images/desktop/image-gallery-milkbottles.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .gallery-orange {
 	grid-area: oranges;
-	background: url(/images/desktop/image-gallery-orange.jpg) no-repeat center center;
+	background: url(./images/desktop/image-gallery-orange.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .gallery-cone {
 	grid-area: cone;
-	background: url(/images/desktop/image-gallery-cone.jpg) no-repeat center center;
+	background: url(./images/desktop/image-gallery-cone.jpg) no-repeat center center;
 	background-size: cover;
 }
 
 .gallery-sugar {
 	grid-area: sugar;
-	background: url(/images/desktop/image-gallery-sugarcubes.jpg) no-repeat center center;
+	background: url(./images/desktop/image-gallery-sugarcubes.jpg) no-repeat center center;
 	background-size: cover;
 }
 
@@ -378,7 +378,7 @@ footer .footer-social svg:hover {
 	}
 
 	.hero {
-		background: url(/images/mobile/image-header.jpg) no-repeat bottom bottom;
+		background: url(./images/mobile/image-header.jpg) no-repeat bottom bottom;
 		background-size: cover;
 		height: 750px;
 	}
@@ -436,26 +436,26 @@ footer .footer-social svg:hover {
 	}
 
 	.image-egg {
-		background: url(/images/mobile/image-transform.jpg) no-repeat center center;
+		background: url(./images/mobile/image-transform.jpg) no-repeat center center;
 		background-size: cover;
 		height: 500px;
 	}
 
 	.image-cup {
 		grid-area: cup;
-		background: url(/images/mobile/image-stand-out.jpg) no-repeat center center;
+		background: url(./images/mobile/image-stand-out.jpg) no-repeat center center;
 		background-size: cover;
 		height: 500px;
 	}
 
 	.cherry-content {
-		background: url(/images/mobile/image-graphic-design.jpg) no-repeat center center;
+		background: url(./images/mobile/image-graphic-design.jpg) no-repeat center center;
 		background-size: cover;
 		padding: 33em 2em 4em 2em;
 	}
 
 	.nectarine-content {
-		background: url(/images/mobile/image-photography.jpg) no-repeat center center;
+		background: url(./images/mobile/image-photography.jpg) no-repeat center center;
 		background-size: cover;
 		padding: 33em 2em 4em 2em;
 	}
@@ -484,22 +484,22 @@ footer .footer-social svg:hover {
 		height: 55vw;
 	}
 	.gallery-milk {
-		background: url(/images/mobile/image-gallery-milkbottles.jpg) no-repeat center center;
+		background: url(./images/mobile/image-gallery-milkbottles.jpg) no-repeat center center;
 		background-size: cover;
 	}
 
 	.gallery-orange {
-		background: url(/images/mobile/image-gallery-orange.jpg) no-repeat center center;
+		background: url(./images/mobile/image-gallery-orange.jpg) no-repeat center center;
 		background-size: cover;
 	}
 
 	.gallery-cone {
-		background: url(/images/mobile/image-gallery-cone.jpg) no-repeat center center;
+		background: url(./images/mobile/image-gallery-cone.jpg) no-repeat center center;
 		background-size: cover;
 	}
 
 	.gallery-sugar {
-		background: url(/images/mobile/image-gallery-sugar-cubes.jpg) no-repeat center center;
+		background: url(./images/mobile/image-gallery-sugar-cubes.jpg) no-repeat center center;
 		background-size: cover;
 	}
 }
